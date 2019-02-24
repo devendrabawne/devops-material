@@ -1,0 +1,52 @@
+    1  rpm -qa | grep tree
+    2  rpm -qa 
+    3  ls
+    4  ls -lrt
+    5  ls -al
+    6  ls -r
+    7  ssh-keygen -t rsa
+    8  pwd
+    9  ls -al
+   10  cat /root/.ssh/id_rsa.pub.
+   11  cat /root/.ssh/id_rsa.pub
+   12  cd
+   13  pwd
+   14  ll
+   15  vi test
+   16  cat test
+   17  vi test
+   18  vim test
+   19  yum install vim -y
+   20  vim test
+   21  vi test
+   22  ssh root@172.31.32.206
+   23  pwd
+   24  mkdir -p /opt/devops-material
+   25  cd /opt
+   26  pwd
+   27  ll
+   28  cd..
+   29  cd/
+   30  cd..
+   31  pwd
+   32  cd
+   33  mkdir -p /opt/devops-material_2 && cd /opt/devops-material_2
+   34  cd..
+   35  cd
+   36  cd opt
+   37  pwd
+   38  cd /opt
+   39  cd /devops-materrial
+   40  pwd
+   41  ls
+   42  cd devops-material
+   43  git init
+   44  yum install git -y
+   45  history
+   46  git init
+   47  history
+   48  cd
+   49  cd -
+   50  pwd
+   51  ll
+   52  history > linuxcmd.txt
