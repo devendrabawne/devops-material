@@ -1,0 +1,11 @@
+t remote add origin https://github.com/devendrabawne/devops-material.git - add the local to remote git repository
+   15      4  git push -u origin master - push the file to remote
+   16      8  git status - shows status of local git reporsitory
+   17      9  git commit -m "my second commit" - give name to the commit area
+   18     10  git status
+   19     11  git commit -m"my second commit"
+   20     12  git push -u origin master
+   21     13  history | grep git - copy git history commands
+   22  histroy | grep git - copy 
+git init - initialize local direcory
+yum install 
